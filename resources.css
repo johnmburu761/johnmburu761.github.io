@@ -105,7 +105,27 @@ div{
 	top:21%;
 	left:15%;
 }
+.ft_cpt{
+	position: absolute;
+	top:190%;
+	width: 100%;
+	height:20%;
+	background-color:gray;
+}
+.cprt{
+	position: relative;
+	left:83%;
+	top:10%;
+}
+.Github__l{
+	text-decoration: none;
 
+	color:#13b3e8;
+	position: relative;
+	left:1%;
+	top:30%;
+
+}
 @media screen and (max-width: 800px;){
 	*{
 		margin: 0;

@@ -78,6 +78,15 @@ div{
 .resources__link:hover{
 	color:white;
 }
+.Github__l{
+	text-decoration: none;
+
+	color:#13b3e8;
+	position: relative;
+	left:1%;
+	top:36%;
+
+}
 @media screen and (max-width: 800px){
 	.main__page__attr{
 	position:absolute;
