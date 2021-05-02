@@ -1,0 +1,154 @@
+*{
+	margin: 0;
+	padding:0;
+}
+.main__page__attr{
+	position:absolute;
+	width:100%;
+	background: transparent;
+	height:90%;
+	margin: 0;
+
+
+}
+div{
+	overflow: hidden;
+}
+.my__name{
+
+	position: relative;
+	top:30%;
+	left: 36%;
+}
+#hm_btn{
+	position:relative;
+	top:40%;
+	left:30%;
+}
+#hm_btn2{
+	position:relative;
+	top:40%;
+	left:34%;
+}
+
+.about__component{
+	position: absolute;
+	top:90%;
+	width: 100%;
+	height:50%;
+	background-color: #eb8f34;
+}
+.footer_component{
+	position: absolute;
+	top:140%;
+	width: 100%;
+	height:20%;
+	background-color: gray;
+}
+.ctex{
+	position: relative;
+	left:80%;
+	top:20%;
+}
+.ab__header{
+	position: relative;
+	left:40%;
+	top:2%;
+
+}
+.ab_text{
+	margin: 7px;
+	font-size:34px;
+}
+.resources__link{
+	position:relative;
+	top:40.5%;
+	left:38%;
+	text-decoration: none;
+	padding-left:4px;
+	padding-right: 4px;
+	padding-top: 7.5px;
+	padding-bottom: 7.5px; 
+	
+	border-radius: 3px;
+	background-color: #0d6efd;
+	color:white;
+}
+
+.resources__link:hover{
+	color:white;
+}
+@media screen and (max-width: 800px){
+	.main__page__attr{
+	position:absolute;
+	width:100%;
+	
+	height:80%;
+
+
+	}
+	div{
+		overflow: hidden;
+	}
+	.my__name{
+		position: relative;
+		top:30%;
+		left:30%;
+	}
+	#hm_btn{
+		position: relative;
+		top:39%;
+		left:16%;
+	}
+	#hm_btn2{
+		position: relative;
+		top:39%;
+		left:20%;
+	}
+	#hm_btn3{
+		position: relative;
+		top:39%;
+		left:24%;
+	}
+	.about__component{
+		position: absolute;
+		top:80%;
+		width: 100%;
+		height:50%;
+		background-color: #eb8f34;
+		overflow: scroll;
+}
+	.footer_component{
+		position:absolute;
+		top:130%;
+		width:100%;
+		height:20%;
+		border:1px solid  grey;
+		background: gray;
+		
+
+	}
+	.ctex{
+		position: relative;
+		top:20%;
+		left:40%;
+	}
+	.resources__link{
+	position:relative;
+	top:39.5%;
+	left:24%;
+	text-decoration: none;
+	padding-left:4px;
+	padding-right: 4px;
+	padding-top: 7.5px;
+	padding-bottom: 7.5px; 
+	
+	border-radius: 3px;
+	background-color: #0d6efd;
+	color:white;
+}
+.resources__link:hover{
+	color:white;
+}
+
+}

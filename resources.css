@@ -1,0 +1,208 @@
+*{
+	margin:0;
+	padding:0;
+}
+div{
+	overflow: hidden;
+}
+.main__res__cont{
+	position: absolute;
+	width: 100%;
+	height: 50%;
+
+
+
+
+
+}
+.main__hdr{
+	position: relative;
+	left:25%;
+	top:6%;
+}
+.web__dev__ic{
+	position: relative;
+	width:125px;
+	border-radius: 50%;
+	height:125px;
+	left:40%;
+	top:20%;
+	background-color: #8cffea;
+/*	border:1px solid black;*/
+	cursor:pointer;
+}
+.wb_dev{
+	position: relative;
+	left:37%;
+	top:25%;
+}
+#web__ic{
+	position: relative;
+	left:25%;
+	top:30%;
+	color:black;
+	width: 100px;
+	height:100px;
+
+
+}
+
+.wb_dev_cont{
+	position: absolute;
+	width:100%;
+	top:50%;
+	background-color: #0ee3d1;
+	height:140%;
+}
+
+.pl_lk{
+	text-decoration: none;
+}
+.bgn_tg{
+	position: relative;
+	top:4%;
+	left:40%;
+}
+.wrn_bn{
+	position: relative;
+	top:5%;
+	left:15%;
+}
+.bgn_1p{
+	position: relative;
+	top:5%;
+	left:15%;
+
+}
+
+.intermdite_bg{
+	position: relative;
+	left:39%;
+	top:8%;
+}
+.idm_1p{
+	position: relative;
+	top:10%;
+	left:15%;
+}
+.chllng_bg{
+	position: relative;
+	left:27%;
+	top:14%;
+}
+.cllng_1p{
+	position:relative;
+	top:15%;
+	left:15%;
+}
+.sb_bag{
+	position: relative;
+	top:20%;
+	left:15%;
+}
+.ln_gt{
+	position: relative;
+	top:21%;
+	left:15%;
+}
+
+@media screen and (max-width: 800px;){
+	*{
+		margin: 0;
+		padding: 0;
+	}
+	div{
+		overflow: hidden;
+	}
+	.main__res__cont{
+	position: absolute;
+	width: 100%;
+	height: 50%;
+	
+	border:1px solid blue; 
+
+
+	}
+	.main__hdr{
+	position: relative;
+	left:25%;
+	top:6%;
+}
+.web__dev__ic{
+	position: relative;
+	width:125px;
+	border-radius: 50%;
+	height:125px;
+	left:40%;
+	top:20%;
+	background-color: #8cffea;
+/*	border:1px solid black;*/
+	cursor:pointer;
+}
+.wb_dev{
+	position: relative;
+	left:37%;
+	top:25%;
+}
+#web__ic{
+	position: relative;
+	left:25%;
+	top:30%;
+	color:#black;
+	width: 100px;
+	height:100px;
+
+
+}
+
+.wb_dev_cont{
+	position: absolute;
+	width:100%;
+	top:50%;
+	background-color: #0ee3d1;
+	height:140%;
+}
+
+.pl_lk{
+	text-decoration: none;
+}
+.bgn_tg{
+	position: relative;
+	top:4%;
+	left:40%;
+}
+.wrn_bn{
+	position: relative;
+	top:5%;
+	left:15%;
+}
+.bgn_1p{
+	position: relative;
+	top:5%;
+	left:15%;
+
+}
+
+.intermdite_bg{
+	position: relative;
+	left:39%;
+	top:1%;
+
+}
+.idm_1p{
+	position: relative;
+	margin: 8px;
+	top:10%;
+	left:15%;
+}
+.chllng_bg{
+	position: relative;
+	left:27%;
+	top:16%;
+}
+.cllng_1p{
+	position:relative;
+	top:15%;
+	left:15%;
+}
+}
